@@ -3,7 +3,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.owner = ['6285872380901','6285738975006']
+global.owner = ['62882000987522','6285738975006']
 global.packname = 'AFA'
 global.author = 'AFAXD'
 global.sessionName = 'data'
